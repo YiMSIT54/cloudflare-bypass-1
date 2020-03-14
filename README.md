@@ -1,6 +1,8 @@
 # Cloudflare Bypass
 
-[![CircleCI](https://circleci.com/gh/KyranRana/cloudflare-bypass.svg?style=svg)](https://circleci.com/gh/KyranRana/cloudflare-bypass)
+![CI](https://github.com/jaymoulin/cloudflare-bypass/workflows/CI/badge.svg)
+
+This fork is unstable and updated by a bot. Please don't use it in production. Its tags are automatically created from 3.3.0 and may bring BC Break
 
 A new and improved PHP library which bypasses the Cloudflare IUAM page using cURL.
 
@@ -9,7 +11,7 @@ A new and improved PHP library which bypasses the Cloudflare IUAM page using cUR
 
 With composer:
 
-`composer require kyranrana/cloudflare-bypass`
+`composer require jaymoulin/cloudflare-bypass`
 
 
 #### Usage with cURL
