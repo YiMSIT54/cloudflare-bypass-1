@@ -1,5 +1,5 @@
 {
-  "name": "kyranrana/cloudflare-bypass",
+  "name": "jaymoulin/cloudflare-bypass",
   "description": "A library for helping bypass the cloudflare UAM page.",
   "type": "library",
   "license": "MIT",
